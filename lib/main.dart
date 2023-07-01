@@ -22,6 +22,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       home: Scaffold(
+        backgroundColor: Colors.white,
         body: SafeArea(
           child: Center(
             child: IconButton(
